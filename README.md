@@ -11,9 +11,9 @@ Currently Know:
 Python
 
 Want to Learn/Will Learn:
-C++ (In Progress)
-Javascript
-HTML
+C++ (In Progress),
+Javascript,
+HTML,
 C#
 
 Projects:
