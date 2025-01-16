@@ -1,19 +1,20 @@
 Name: Calx
-Age: 20
+Age: 21
 Currently majoring in Programming 
-I'm in my third year there.
+I'm in my final year there! 
 
-I work in the EVS department at Cleveland Clinic and want to eventually move up into medical software when I graduate.
-Medical Software or perhaps something with video games if I'm lucky enough.
+I work in the EVS department at Crystal Clinic and want to eventually move up into medical software when I graduate.
+Medical Software or perhaps something with video games if I'm lucky enough. I also have an IT Internship with the Computer Center on Akron's Campus. 
 
 Programming Languages:
 Currently Know:
 Python
+C++
+Java
+Javascript
+HTML + CSS
 
-Want to Learn/Will Learn:
-C++ (In Progress),
-Javascript,
-HTML,
+Want to Learn:
 C#
 
 Projects:
