@@ -8,10 +8,10 @@ Medical Software or perhaps something with video games if I'm lucky enough. I al
 
 Programming Languages:
 Currently Know:
-Python
-C++
-Java
-Javascript
+Python,
+C++,
+Java,
+Javascript,
 HTML + CSS
 
 Want to Learn:
